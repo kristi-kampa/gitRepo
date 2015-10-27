@@ -3,4 +3,8 @@ and some more fun junk to add to the file :)
 
 This is not junk!!
 
+<<<<<<< HEAD
 This is totes junk stuff
+=======
+This is my change, and it's way cooler than Kristi's change.
+>>>>>>> origin/master
